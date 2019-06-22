@@ -2,44 +2,41 @@
 layout: default
 ---
 
-## About Me
+## About Me 
 
 <img class="profile-picture" src="sherlock.jpg">
+Android developer, Kotlin lover, Crafter.
+- Email: wwwyingkit@gmail.com  
+- Tel  : +852 68756659
+## Experience
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+`2018 May - now`
+__Android developer @ Doki__
+- Build Doki Pal software, an android launcher for smart watch from scratch using Kotlin. Implement watch to app chat room, video call using MQTT. Also implement alarm scheduling, bluetooth connection. Architect the app using MVVM with dependency injection powered by Rx.
+- Revamp an android companion app for Doki Pal
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+`2017 Aug - 2018 mar`
+__Android developer @ Legato__
+- Develop iDefect android app from scratch using MVP.
+- Develop and maintain Outback android app
+- Develop and maintain SCMmag app
 
-## Research Interest
+`2016 Summer`
+__Internship @ Air-button__
+- Help developing Air-button, an button connected to android using NFC api.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Education
 
-## Publications
+Year | School | Qualification 
+-----|-------|------
+2013 - 2017 | City University of Hong Kong | Bachelor of Engineering, Information Engineering
+2007 - 2013 | Wong Shiu Chi Secondary School | HKDSE
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Projects
+__Final Year Project__ implemented in C++, with OpenCV. Trained SVM models by HOG features data
+Track pedestrian by Kalman filter
 
-## Typography
+__LaunchPad Portable Android App__ A musical app for live performance. Customizable beats, loops, volumes and pitches. City University Information Product Design Competition 2016/17 Bronze Award
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Skills
+*- __Kotlin__, __Android__, Java, C++, ReactiveX, Git, Svn, MVI, MVVM, MQTT, Sqlite, Sketch, Python*
